@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stock Grader</title>
+  <meta name="description" content="The 10 most valuable stocks, their price history, news, and a 1-week estimate.">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <h1>Stock Grader</h1>
+      <p class="sub">The 10 most valuable companies, ranked by market cap.
+        <span id="asof"></span></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p class="disclaimer" role="note">
+      <strong>Estimate disclaimer:</strong> the <span class="est">yellow</span> predictions are
+      estimates built from past prices. They are <em>not</em> concrete proof of what will happen
+      and are not financial advice.
+    </p>
+
+    <section aria-labelledby="top-title">
+      <div class="section-head">
+        <h2 id="top-title">Top 10 ranking</h2>
+        <p class="hint">Hover a company to see its sources. Click it for its full status and news.</p>
+      </div>
+      <div id="top-grid" class="grid"></div>
+    </section>
+
+    <section aria-labelledby="rising-title" class="rising">
+      <div class="section-head">
+        <h2 id="rising-title">Rising stock</h2>
+        <p class="hint">The biggest 1-week gainer among other large companies outside the top 10.</p>
+      </div>
+      <div id="rising-grid" class="grid grid-single"></div>
+    </section>
+
+    <section class="legend" aria-label="Color legend">
+      <span><i class="dot up"></i> Rise</span>
+      <span><i class="dot down"></i> Fall</span>
+      <span><i class="dot est"></i> Estimate (not certain)</span>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <p>Prices, company data and news: <a id="src-link" href="https://finance.yahoo.com" target="_blank" rel="noopener">Yahoo Finance</a>
+      (via the <a href="https://github.com/ranaroussi/yfinance" target="_blank" rel="noopener">yfinance</a> library).
+      Each company card lists its own news sources. Data refreshes every weekday after U.S. market close.</p>
+    <p>How the estimate works: a trend line is fitted to the last ~60 daily closes, only half of that trend
+      is trusted, and the range shows a typical week's price swing. Past performance does not guarantee future results.</p>
+  </footer>
+
+  <dialog id="detail" aria-labelledby="d-title">
+    <form method="dialog"><button class="close" aria-label="Close">&times;</button></form>
+    <div id="detail-body"></div>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

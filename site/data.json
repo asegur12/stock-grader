@@ -1,0 +1,3748 @@
+{
+ "generated_at": "2026-11-18T22:53+00:00",
+ "data_source": {
+  "name": "Yahoo Finance (via yfinance)",
+  "url": "https://finance.yahoo.com"
+ },
+ "stocks": [
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "price": 352.45,
+   "currency": "USD",
+   "market_cap": 5121867723294.8,
+   "day_change_pct": 0.15,
+   "week_change_pct": -0.82,
+   "week_direction": "Fall",
+   "month_change_pct": 3.89,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 354.88,
+     "change_pct": -0.14,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 356.27,
+     "change_pct": 0.39,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 352.78,
+     "change_pct": -0.98,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 351.91,
+     "change_pct": -0.25,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 352.45,
+     "change_pct": 0.15,
+     "direction": "Rise"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 316.59
+    },
+    {
+     "date": "2026-08-20",
+     "close": 311.06
+    },
+    {
+     "date": "2026-08-21",
+     "close": 309.12
+    },
+    {
+     "date": "2026-08-24",
+     "close": 310.1
+    },
+    {
+     "date": "2026-08-25",
+     "close": 309.66
+    },
+    {
+     "date": "2026-08-26",
+     "close": 313.21
+    },
+    {
+     "date": "2026-08-27",
+     "close": 314.34
+    },
+    {
+     "date": "2026-08-28",
+     "close": 319.46
+    },
+    {
+     "date": "2026-08-31",
+     "close": 316.61
+    },
+    {
+     "date": "2026-09-01",
+     "close": 324.88
+    },
+    {
+     "date": "2026-09-02",
+     "close": 324.71
+    },
+    {
+     "date": "2026-09-03",
+     "close": 327.96
+    },
+    {
+     "date": "2026-09-04",
+     "close": 319.73
+    },
+    {
+     "date": "2026-09-08",
+     "close": 315.98
+    },
+    {
+     "date": "2026-09-09",
+     "close": 315.1
+    },
+    {
+     "date": "2026-09-10",
+     "close": 326.32
+    },
+    {
+     "date": "2026-09-11",
+     "close": 332.02
+    },
+    {
+     "date": "2026-09-14",
+     "close": 332.83
+    },
+    {
+     "date": "2026-09-15",
+     "close": 331.09
+    },
+    {
+     "date": "2026-09-16",
+     "close": 332.16
+    },
+    {
+     "date": "2026-09-17",
+     "close": 336.74
+    },
+    {
+     "date": "2026-09-18",
+     "close": 335.87
+    },
+    {
+     "date": "2026-09-21",
+     "close": 338.72
+    },
+    {
+     "date": "2026-09-22",
+     "close": 339.49
+    },
+    {
+     "date": "2026-09-23",
+     "close": 336.76
+    },
+    {
+     "date": "2026-09-24",
+     "close": 335.66
+    },
+    {
+     "date": "2026-09-25",
+     "close": 340.81
+    },
+    {
+     "date": "2026-09-28",
+     "close": 338.14
+    },
+    {
+     "date": "2026-09-29",
+     "close": 329.15
+    },
+    {
+     "date": "2026-09-30",
+     "close": 332.77
+    },
+    {
+     "date": "2026-10-01",
+     "close": 330.07
+    },
+    {
+     "date": "2026-10-02",
+     "close": 333.44
+    },
+    {
+     "date": "2026-10-05",
+     "close": 332.64
+    },
+    {
+     "date": "2026-10-06",
+     "close": 333.38
+    },
+    {
+     "date": "2026-10-07",
+     "close": 336.41
+    },
+    {
+     "date": "2026-10-08",
+     "close": 340.16
+    },
+    {
+     "date": "2026-10-09",
+     "close": 336.38
+    },
+    {
+     "date": "2026-10-12",
+     "close": 340.71
+    },
+    {
+     "date": "2026-10-13",
+     "close": 341.01
+    },
+    {
+     "date": "2026-10-14",
+     "close": 342.7
+    },
+    {
+     "date": "2026-10-15",
+     "close": 341.74
+    },
+    {
+     "date": "2026-10-16",
+     "close": 343.2
+    },
+    {
+     "date": "2026-10-19",
+     "close": 342.68
+    },
+    {
+     "date": "2026-10-20",
+     "close": 339.24
+    },
+    {
+     "date": "2026-10-21",
+     "close": 343.73
+    },
+    {
+     "date": "2026-10-22",
+     "close": 347.96
+    },
+    {
+     "date": "2026-10-23",
+     "close": 347.47
+    },
+    {
+     "date": "2026-10-26",
+     "close": 343.65
+    },
+    {
+     "date": "2026-10-27",
+     "close": 346.84
+    },
+    {
+     "date": "2026-10-28",
+     "close": 343.57
+    },
+    {
+     "date": "2026-10-29",
+     "close": 348.65
+    },
+    {
+     "date": "2026-10-30",
+     "close": 344.37
+    },
+    {
+     "date": "2026-11-02",
+     "close": 338.06
+    },
+    {
+     "date": "2026-11-03",
+     "close": 331.65
+    },
+    {
+     "date": "2026-11-04",
+     "close": 349.24
+    },
+    {
+     "date": "2026-11-05",
+     "close": 343.91
+    },
+    {
+     "date": "2026-11-06",
+     "close": 342.11
+    },
+    {
+     "date": "2026-11-09",
+     "close": 350.42
+    },
+    {
+     "date": "2026-11-10",
+     "close": 348.25
+    },
+    {
+     "date": "2026-11-11",
+     "close": 355.36
+    },
+    {
+     "date": "2026-11-12",
+     "close": 354.88
+    },
+    {
+     "date": "2026-11-13",
+     "close": 356.27
+    },
+    {
+     "date": "2026-11-16",
+     "close": 352.78
+    },
+    {
+     "date": "2026-11-17",
+     "close": 351.91
+    },
+    {
+     "date": "2026-11-18",
+     "close": 352.45
+    }
+   ],
+   "status": {
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "pe_ratio": 39.248333,
+    "fifty_two_week_high": 360.83,
+    "fifty_two_week_low": 243.42,
+    "analyst_rating": "buy",
+    "analyst_target": 345.6313,
+    "website": "https://www.apple.com",
+    "summary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories, including Apple Watch, AirPods, Beats products, Apple Vision Pro, Apple TV 4K, HomePod, and Apple HomeView, as well as Apple branded and third-party accessories. It also provides advertising services comprising third-party licensing arrangements and own advertising platforms; AppleCare and cloud services; and payment ser"
+   },
+   "prediction": {
+    "expected_pct": 0.41,
+    "low_pct": -2.68,
+    "high_pct": 3.6,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
+     "url": "https://www.investors.com/research/ibd-stock-analysis/apple-stock-outshines-ai-peers-nvidia-meta/?src=A00220&yptr=yahoo",
+     "publisher": "Investor's Business Daily",
+     "date": "2026-11-18T21:04:10Z",
+     "summary": "Making the latest list of new buys by top funds, Apple stock shows strength while fellow AI names Nvidia and Meta flounder."
+    },
+    {
+     "title": "Apple Stock Shows Strength Now, and a Key Catalyst Is Brewing in June 2027",
+     "url": "https://www.barchart.com/story/news/8900400/apple-stock-shows-strength-now-and-a-key-catalyst-is-brewing-in-june-2027",
+     "publisher": "Barchart",
+     "date": "2026-11-18T16:43:47Z",
+     "summary": "Apple is planning to unveil its new AI-powered smart glasses at its Worldwide Developers Conference in June 2027."
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/AAPL",
+   "rank": 1
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corporation",
+   "price": 508.29,
+   "currency": "USD",
+   "market_cap": 3774660492292.332,
+   "day_change_pct": 0.4,
+   "week_change_pct": -2.46,
+   "week_direction": "Fall",
+   "month_change_pct": -4.43,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 523.0,
+     "change_pct": 0.36,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 523.88,
+     "change_pct": 0.17,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 517.99,
+     "change_pct": -1.12,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 506.24,
+     "change_pct": -2.27,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 508.29,
+     "change_pct": 0.4,
+     "direction": "Rise"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 483.4
+    },
+    {
+     "date": "2026-08-20",
+     "close": 481.15
+    },
+    {
+     "date": "2026-08-21",
+     "close": 483.24
+    },
+    {
+     "date": "2026-08-24",
+     "close": 487.31
+    },
+    {
+     "date": "2026-08-25",
+     "close": 491.71
+    },
+    {
+     "date": "2026-08-26",
+     "close": 496.37
+    },
+    {
+     "date": "2026-08-27",
+     "close": 505.06
+    },
+    {
+     "date": "2026-08-28",
+     "close": 513.53
+    },
+    {
+     "date": "2026-08-31",
+     "close": 507.29
+    },
+    {
+     "date": "2026-09-01",
+     "close": 501.02
+    },
+    {
+     "date": "2026-09-02",
+     "close": 496.82
+    },
+    {
+     "date": "2026-09-03",
+     "close": 510.12
+    },
+    {
+     "date": "2026-09-04",
+     "close": 499.7
+    },
+    {
+     "date": "2026-09-08",
+     "close": 493.95
+    },
+    {
+     "date": "2026-09-09",
+     "close": 491.65
+    },
+    {
+     "date": "2026-09-10",
+     "close": 492.44
+    },
+    {
+     "date": "2026-09-11",
+     "close": 495.63
+    },
+    {
+     "date": "2026-09-14",
+     "close": 505.41
+    },
+    {
+     "date": "2026-09-15",
+     "close": 497.12
+    },
+    {
+     "date": "2026-09-16",
+     "close": 490.3
+    },
+    {
+     "date": "2026-09-17",
+     "close": 497.75
+    },
+    {
+     "date": "2026-09-18",
+     "close": 493.78
+    },
+    {
+     "date": "2026-09-21",
+     "close": 501.61
+    },
+    {
+     "date": "2026-09-22",
+     "close": 498.0
+    },
+    {
+     "date": "2026-09-23",
+     "close": 500.59
+    },
+    {
+     "date": "2026-09-24",
+     "close": 497.93
+    },
+    {
+     "date": "2026-09-25",
+     "close": 516.17
+    },
+    {
+     "date": "2026-09-28",
+     "close": 509.22
+    },
+    {
+     "date": "2026-09-29",
+     "close": 508.96
+    },
+    {
+     "date": "2026-09-30",
+     "close": 512.9
+    },
+    {
+     "date": "2026-10-01",
+     "close": 512.8
+    },
+    {
+     "date": "2026-10-02",
+     "close": 517.53
+    },
+    {
+     "date": "2026-10-05",
+     "close": 525.18
+    },
+    {
+     "date": "2026-10-06",
+     "close": 529.3
+    },
+    {
+     "date": "2026-10-07",
+     "close": 529.76
+    },
+    {
+     "date": "2026-10-08",
+     "close": 522.61
+    },
+    {
+     "date": "2026-10-09",
+     "close": 535.07
+    },
+    {
+     "date": "2026-10-12",
+     "close": 541.15
+    },
+    {
+     "date": "2026-10-13",
+     "close": 543.45
+    },
+    {
+     "date": "2026-10-14",
+     "close": 533.69
+    },
+    {
+     "date": "2026-10-15",
+     "close": 539.44
+    },
+    {
+     "date": "2026-10-16",
+     "close": 529.05
+    },
+    {
+     "date": "2026-10-19",
+     "close": 533.52
+    },
+    {
+     "date": "2026-10-20",
+     "close": 531.87
+    },
+    {
+     "date": "2026-10-21",
+     "close": 532.95
+    },
+    {
+     "date": "2026-10-22",
+     "close": 521.08
+    },
+    {
+     "date": "2026-10-23",
+     "close": 524.51
+    },
+    {
+     "date": "2026-10-26",
+     "close": 532.6
+    },
+    {
+     "date": "2026-10-27",
+     "close": 531.33
+    },
+    {
+     "date": "2026-10-28",
+     "close": 531.01
+    },
+    {
+     "date": "2026-10-29",
+     "close": 530.14
+    },
+    {
+     "date": "2026-10-30",
+     "close": 521.91
+    },
+    {
+     "date": "2026-11-02",
+     "close": 507.12
+    },
+    {
+     "date": "2026-11-03",
+     "close": 520.99
+    },
+    {
+     "date": "2026-11-04",
+     "close": 555.8
+    },
+    {
+     "date": "2026-11-05",
+     "close": 535.93
+    },
+    {
+     "date": "2026-11-06",
+     "close": 530.61
+    },
+    {
+     "date": "2026-11-09",
+     "close": 545.18
+    },
+    {
+     "date": "2026-11-10",
+     "close": 533.16
+    },
+    {
+     "date": "2026-11-11",
+     "close": 521.13
+    },
+    {
+     "date": "2026-11-12",
+     "close": 523.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 523.88
+    },
+    {
+     "date": "2026-11-16",
+     "close": 517.99
+    },
+    {
+     "date": "2026-11-17",
+     "close": 506.24
+    },
+    {
+     "date": "2026-11-18",
+     "close": 508.29
+    }
+   ],
+   "status": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "pe_ratio": 26.528706,
+    "fifty_two_week_high": 559.15,
+    "fifty_two_week_low": 349.2,
+    "analyst_rating": "strong_buy",
+    "analyst_target": 636.12427,
+    "website": "https://www.microsoft.com",
+    "summary": "Microsoft Corporation, a technology company, develops and supports a portfolio of technology solutions for individuals and businesses worldwide. Its products include operating systems, server applications, business solution applications, software development tools, desktop and server management tools, and video games; and devices, such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories. The company's Productivity and Business Processes segment offers Microsoft 365 Commercial, Enterprise Mobility + Security, Power BI, Exchange, SharePoint, Mic"
+   },
+   "prediction": {
+    "expected_pct": 0.3,
+    "low_pct": -3.58,
+    "high_pct": 4.34,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "Microsoft expands Azure arsenal at Ignite",
+     "url": "https://www.ciodive.com/news/microsoft-expands-azure-arsenal-ignite/875125/",
+     "publisher": "CIO Dive",
+     "date": "2026-11-18T21:04:03Z",
+     "summary": "The tech giant is building out a \u201csingle, co-engineered system,\u201d uniting AI models, chips and cloud infrastructure, said Microsoft\u2019s Jeremy Winter."
+    },
+    {
+     "title": "Microsoft Stock (MSFT) Forecast \u2013 Mizuho Stays Bullish on Strong Revenue Growth Prospects",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-msft-forecast-mizuho-210000261.html",
+     "publisher": "TipRanks",
+     "date": "2026-11-18T21:00:00Z",
+     "summary": "Tech giant Microsoft (MSFT) unveiled new AI models at its Ignite conference amid intense competition from AI players OpenAI and Anthropic (ANT). Reacting to the updates at the conference, Mizuho analyst Gregg Moskowitz reiterated a Buy rating on MSFT stock with a price target of $625. The analyst be"
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/MSFT",
+   "rank": 2
+  },
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corporation",
+   "price": 150.96,
+   "currency": "USD",
+   "market_cap": 3645231282119.751,
+   "day_change_pct": -2.89,
+   "week_change_pct": -13.11,
+   "week_direction": "Fall",
+   "month_change_pct": -30.26,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 166.19,
+     "change_pct": -4.34,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 162.85,
+     "change_pct": -2.01,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 156.14,
+     "change_pct": -4.12,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 155.46,
+     "change_pct": -0.44,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 150.96,
+     "change_pct": -2.89,
+     "direction": "Fall"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 217.32
+    },
+    {
+     "date": "2026-08-20",
+     "close": 216.61
+    },
+    {
+     "date": "2026-08-21",
+     "close": 214.48
+    },
+    {
+     "date": "2026-08-24",
+     "close": 208.25
+    },
+    {
+     "date": "2026-08-25",
+     "close": 212.81
+    },
+    {
+     "date": "2026-08-26",
+     "close": 209.43
+    },
+    {
+     "date": "2026-08-27",
+     "close": 227.73
+    },
+    {
+     "date": "2026-08-28",
+     "close": 217.31
+    },
+    {
+     "date": "2026-08-31",
+     "close": 220.53
+    },
+    {
+     "date": "2026-09-01",
+     "close": 217.2
+    },
+    {
+     "date": "2026-09-02",
+     "close": 224.16
+    },
+    {
+     "date": "2026-09-03",
+     "close": 228.19
+    },
+    {
+     "date": "2026-09-04",
+     "close": 230.1
+    },
+    {
+     "date": "2026-09-08",
+     "close": 225.48
+    },
+    {
+     "date": "2026-09-09",
+     "close": 223.42
+    },
+    {
+     "date": "2026-09-10",
+     "close": 218.36
+    },
+    {
+     "date": "2026-09-11",
+     "close": 218.29
+    },
+    {
+     "date": "2026-09-14",
+     "close": 210.96
+    },
+    {
+     "date": "2026-09-15",
+     "close": 212.17
+    },
+    {
+     "date": "2026-09-16",
+     "close": 213.9
+    },
+    {
+     "date": "2026-09-17",
+     "close": 219.34
+    },
+    {
+     "date": "2026-09-18",
+     "close": 222.27
+    },
+    {
+     "date": "2026-09-21",
+     "close": 227.38
+    },
+    {
+     "date": "2026-09-22",
+     "close": 228.87
+    },
+    {
+     "date": "2026-09-23",
+     "close": 225.51
+    },
+    {
+     "date": "2026-09-24",
+     "close": 224.58
+    },
+    {
+     "date": "2026-09-25",
+     "close": 225.07
+    },
+    {
+     "date": "2026-09-28",
+     "close": 228.86
+    },
+    {
+     "date": "2026-09-29",
+     "close": 227.21
+    },
+    {
+     "date": "2026-09-30",
+     "close": 228.38
+    },
+    {
+     "date": "2026-10-01",
+     "close": 230.86
+    },
+    {
+     "date": "2026-10-02",
+     "close": 233.95
+    },
+    {
+     "date": "2026-10-05",
+     "close": 238.9
+    },
+    {
+     "date": "2026-10-06",
+     "close": 239.24
+    },
+    {
+     "date": "2026-10-07",
+     "close": 237.47
+    },
+    {
+     "date": "2026-10-08",
+     "close": 230.48
+    },
+    {
+     "date": "2026-10-09",
+     "close": 229.28
+    },
+    {
+     "date": "2026-10-12",
+     "close": 226.32
+    },
+    {
+     "date": "2026-10-13",
+     "close": 228.52
+    },
+    {
+     "date": "2026-10-14",
+     "close": 221.3
+    },
+    {
+     "date": "2026-10-15",
+     "close": 217.23
+    },
+    {
+     "date": "2026-10-16",
+     "close": 214.13
+    },
+    {
+     "date": "2026-10-19",
+     "close": 217.09
+    },
+    {
+     "date": "2026-10-20",
+     "close": 216.47
+    },
+    {
+     "date": "2026-10-21",
+     "close": 221.97
+    },
+    {
+     "date": "2026-10-22",
+     "close": 212.21
+    },
+    {
+     "date": "2026-10-23",
+     "close": 210.96
+    },
+    {
+     "date": "2026-10-26",
+     "close": 216.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 217.94
+    },
+    {
+     "date": "2026-10-28",
+     "close": 215.38
+    },
+    {
+     "date": "2026-10-29",
+     "close": 213.66
+    },
+    {
+     "date": "2026-10-30",
+     "close": 204.64
+    },
+    {
+     "date": "2026-11-02",
+     "close": 202.06
+    },
+    {
+     "date": "2026-11-03",
+     "close": 206.69
+    },
+    {
+     "date": "2026-11-04",
+     "close": 200.13
+    },
+    {
+     "date": "2026-11-05",
+     "close": 181.6
+    },
+    {
+     "date": "2026-11-06",
+     "close": 186.64
+    },
+    {
+     "date": "2026-11-09",
+     "close": 178.67
+    },
+    {
+     "date": "2026-11-10",
+     "close": 168.89
+    },
+    {
+     "date": "2026-11-11",
+     "close": 173.73
+    },
+    {
+     "date": "2026-11-12",
+     "close": 166.19
+    },
+    {
+     "date": "2026-11-13",
+     "close": 162.85
+    },
+    {
+     "date": "2026-11-16",
+     "close": 156.14
+    },
+    {
+     "date": "2026-11-17",
+     "close": 155.46
+    },
+    {
+     "date": "2026-11-18",
+     "close": 150.96
+    }
+   ],
+   "status": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "pe_ratio": 19.084703,
+    "fifty_two_week_high": 243.37,
+    "fifty_two_week_low": 148.8,
+    "analyst_rating": "buy",
+    "analyst_target": 253.67091,
+    "website": "https://www.nvidia.com",
+    "summary": "NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's p"
+   },
+   "prediction": {
+    "expected_pct": -1.11,
+    "low_pct": -7.11,
+    "high_pct": 5.27,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "Nvidia interim CEO Colette Kress has taken over one of the most consequential companies on the planet; those who know her say she's up to the task",
+     "url": "https://finance.yahoo.com/technology/article/nvidia-interim-ceo-colette-kress-has-taken-over-one-of-the-most-consequential-companies-on-the-planet-those-who-know-her-say-shes-up-to-the-task-210312776.html",
+     "publisher": "Yahoo Finance",
+     "date": "2026-11-18T20:26:19Z",
+     "summary": "Nvidia's interim CEO, CFO Colette Kress, now overseas one of the most consequential companies in the world."
+    },
+    {
+     "title": "'Sending a message': Nvidia signals more cautious stance on China after Huang's departure",
+     "url": "https://finance.yahoo.com/technology/article/sending-a-message-nvidia-signals-more-cautious-stance-on-china-after-huangs-departure-194945165.html",
+     "publisher": "Yahoo Finance",
+     "date": "2026-11-18T19:49:45Z",
+     "summary": "Nvidia's decision to halt Hopper chip sales to China may signal a more cautious shift on US-China relations from the leading chipmaker."
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/NVDA",
+   "rank": 3
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "price": 282.44,
+   "currency": "USD",
+   "market_cap": 3472317390014.6484,
+   "day_change_pct": 0.8,
+   "week_change_pct": -3.75,
+   "week_direction": "Fall",
+   "month_change_pct": -17.0,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 298.7,
+     "change_pct": 1.79,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 295.77,
+     "change_pct": -0.98,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 283.72,
+     "change_pct": -4.07,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 280.2,
+     "change_pct": -1.24,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 282.44,
+     "change_pct": 0.8,
+     "direction": "Rise"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 344.5
+    },
+    {
+     "date": "2026-08-20",
+     "close": 340.45
+    },
+    {
+     "date": "2026-08-21",
+     "close": 344.6
+    },
+    {
+     "date": "2026-08-24",
+     "close": 347.84
+    },
+    {
+     "date": "2026-08-25",
+     "close": 346.74
+    },
+    {
+     "date": "2026-08-26",
+     "close": 341.78
+    },
+    {
+     "date": "2026-08-27",
+     "close": 340.43
+    },
+    {
+     "date": "2026-08-28",
+     "close": 346.37
+    },
+    {
+     "date": "2026-08-31",
+     "close": 339.13
+    },
+    {
+     "date": "2026-09-01",
+     "close": 334.8
+    },
+    {
+     "date": "2026-09-02",
+     "close": 336.9
+    },
+    {
+     "date": "2026-09-03",
+     "close": 342.26
+    },
+    {
+     "date": "2026-09-04",
+     "close": 338.46
+    },
+    {
+     "date": "2026-09-08",
+     "close": 338.36
+    },
+    {
+     "date": "2026-09-09",
+     "close": 330.65
+    },
+    {
+     "date": "2026-09-10",
+     "close": 332.6
+    },
+    {
+     "date": "2026-09-11",
+     "close": 338.5
+    },
+    {
+     "date": "2026-09-14",
+     "close": 349.39
+    },
+    {
+     "date": "2026-09-15",
+     "close": 344.98
+    },
+    {
+     "date": "2026-09-16",
+     "close": 342.87
+    },
+    {
+     "date": "2026-09-17",
+     "close": 347.33
+    },
+    {
+     "date": "2026-09-18",
+     "close": 349.54
+    },
+    {
+     "date": "2026-09-21",
+     "close": 354.97
+    },
+    {
+     "date": "2026-09-22",
+     "close": 351.16
+    },
+    {
+     "date": "2026-09-23",
+     "close": 337.83
+    },
+    {
+     "date": "2026-09-24",
+     "close": 342.36
+    },
+    {
+     "date": "2026-09-25",
+     "close": 343.92
+    },
+    {
+     "date": "2026-09-28",
+     "close": 342.75
+    },
+    {
+     "date": "2026-09-29",
+     "close": 340.92
+    },
+    {
+     "date": "2026-09-30",
+     "close": 344.08
+    },
+    {
+     "date": "2026-10-01",
+     "close": 338.24
+    },
+    {
+     "date": "2026-10-02",
+     "close": 343.5
+    },
+    {
+     "date": "2026-10-05",
+     "close": 346.47
+    },
+    {
+     "date": "2026-10-06",
+     "close": 347.68
+    },
+    {
+     "date": "2026-10-07",
+     "close": 350.5
+    },
+    {
+     "date": "2026-10-08",
+     "close": 348.29
+    },
+    {
+     "date": "2026-10-09",
+     "close": 351.66
+    },
+    {
+     "date": "2026-10-12",
+     "close": 352.72
+    },
+    {
+     "date": "2026-10-13",
+     "close": 353.78
+    },
+    {
+     "date": "2026-10-14",
+     "close": 347.64
+    },
+    {
+     "date": "2026-10-15",
+     "close": 349.22
+    },
+    {
+     "date": "2026-10-16",
+     "close": 340.59
+    },
+    {
+     "date": "2026-10-19",
+     "close": 344.18
+    },
+    {
+     "date": "2026-10-20",
+     "close": 340.28
+    },
+    {
+     "date": "2026-10-21",
+     "close": 334.76
+    },
+    {
+     "date": "2026-10-22",
+     "close": 324.22
+    },
+    {
+     "date": "2026-10-23",
+     "close": 320.21
+    },
+    {
+     "date": "2026-10-26",
+     "close": 316.8
+    },
+    {
+     "date": "2026-10-27",
+     "close": 320.58
+    },
+    {
+     "date": "2026-10-28",
+     "close": 324.89
+    },
+    {
+     "date": "2026-10-29",
+     "close": 283.82
+    },
+    {
+     "date": "2026-10-30",
+     "close": 279.84
+    },
+    {
+     "date": "2026-11-02",
+     "close": 278.99
+    },
+    {
+     "date": "2026-11-03",
+     "close": 280.03
+    },
+    {
+     "date": "2026-11-04",
+     "close": 288.93
+    },
+    {
+     "date": "2026-11-05",
+     "close": 282.57
+    },
+    {
+     "date": "2026-11-06",
+     "close": 284.78
+    },
+    {
+     "date": "2026-11-09",
+     "close": 288.15
+    },
+    {
+     "date": "2026-11-10",
+     "close": 287.38
+    },
+    {
+     "date": "2026-11-11",
+     "close": 293.45
+    },
+    {
+     "date": "2026-11-12",
+     "close": 298.7
+    },
+    {
+     "date": "2026-11-13",
+     "close": 295.77
+    },
+    {
+     "date": "2026-11-16",
+     "close": 283.72
+    },
+    {
+     "date": "2026-11-17",
+     "close": 280.2
+    },
+    {
+     "date": "2026-11-18",
+     "close": 282.44
+    }
+   ],
+   "status": {
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "pe_ratio": 14.748825,
+    "fifty_two_week_high": 408.61,
+    "fifty_two_week_low": 272.11,
+    "analyst_rating": "strong_buy",
+    "analyst_target": 400.37357,
+    "website": "https://abc.xyz",
+    "summary": "Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in Google Play and YouTube; and devices, as well as the provision of YouTube consumer subscription services"
+   },
+   "prediction": {
+    "expected_pct": -0.87,
+    "low_pct": -5.94,
+    "high_pct": 4.48,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "Amazon and Google Have a Stake",
+     "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/amazon-and-google-have-a-stake-mvLhBOWKqZDvar1niKQb?siteid=yhoof2&yptr=yahoo",
+     "publisher": "Barrons.com",
+     "date": "2026-11-18T21:23:02Z",
+     "summary": "Amazon.com and Google could soon own more than 35% of Anthropic stock."
+    },
+    {
+     "title": "Here\u2019s What a $1,000 Investment in Alphabet Stock Could Be Worth by 2035",
+     "url": "https://www.fool.com/investing/2026/11/18/here-s-what-a-usd1-000-investment-in-alphabet-stock-could-be-worth-by-2035/",
+     "publisher": "Motley Fool",
+     "date": "2026-11-18T20:50:02Z",
+     "summary": "Alphabet has several powerful growth engines, but how much could a $1,000 investment in the Google parent be worth by 2035? Here's what the numbers suggest."
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/GOOGL",
+   "rank": 4
+  },
+  {
+   "symbol": "AMZN",
+   "name": "Amazon.com, Inc.",
+   "price": 267.74,
+   "currency": "USD",
+   "market_cap": 2895109544451.386,
+   "day_change_pct": 3.82,
+   "week_change_pct": 0.59,
+   "week_direction": "Rise",
+   "month_change_pct": 1.95,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 267.44,
+     "change_pct": 0.48,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 266.66,
+     "change_pct": -0.29,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 257.75,
+     "change_pct": -3.34,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 257.89,
+     "change_pct": 0.05,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 267.74,
+     "change_pct": 3.82,
+     "direction": "Rise"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 265.84
+    },
+    {
+     "date": "2026-08-20",
+     "close": 260.11
+    },
+    {
+     "date": "2026-08-21",
+     "close": 258.63
+    },
+    {
+     "date": "2026-08-24",
+     "close": 262.07
+    },
+    {
+     "date": "2026-08-25",
+     "close": 261.06
+    },
+    {
+     "date": "2026-08-26",
+     "close": 260.28
+    },
+    {
+     "date": "2026-08-27",
+     "close": 256.26
+    },
+    {
+     "date": "2026-08-28",
+     "close": 266.43
+    },
+    {
+     "date": "2026-08-31",
+     "close": 259.77
+    },
+    {
+     "date": "2026-09-01",
+     "close": 254.92
+    },
+    {
+     "date": "2026-09-02",
+     "close": 254.98
+    },
+    {
+     "date": "2026-09-03",
+     "close": 258.9
+    },
+    {
+     "date": "2026-09-04",
+     "close": 258.51
+    },
+    {
+     "date": "2026-09-08",
+     "close": 256.97
+    },
+    {
+     "date": "2026-09-09",
+     "close": 252.4
+    },
+    {
+     "date": "2026-09-10",
+     "close": 251.89
+    },
+    {
+     "date": "2026-09-11",
+     "close": 256.78
+    },
+    {
+     "date": "2026-09-14",
+     "close": 253.54
+    },
+    {
+     "date": "2026-09-15",
+     "close": 248.42
+    },
+    {
+     "date": "2026-09-16",
+     "close": 245.96
+    },
+    {
+     "date": "2026-09-17",
+     "close": 251.19
+    },
+    {
+     "date": "2026-09-18",
+     "close": 253.71
+    },
+    {
+     "date": "2026-09-21",
+     "close": 258.45
+    },
+    {
+     "date": "2026-09-22",
+     "close": 254.98
+    },
+    {
+     "date": "2026-09-23",
+     "close": 249.27
+    },
+    {
+     "date": "2026-09-24",
+     "close": 249.38
+    },
+    {
+     "date": "2026-09-25",
+     "close": 249.67
+    },
+    {
+     "date": "2026-09-28",
+     "close": 246.15
+    },
+    {
+     "date": "2026-09-29",
+     "close": 246.67
+    },
+    {
+     "date": "2026-09-30",
+     "close": 249.15
+    },
+    {
+     "date": "2026-10-01",
+     "close": 248.23
+    },
+    {
+     "date": "2026-10-02",
+     "close": 251.52
+    },
+    {
+     "date": "2026-10-05",
+     "close": 251.4
+    },
+    {
+     "date": "2026-10-06",
+     "close": 256.29
+    },
+    {
+     "date": "2026-10-07",
+     "close": 259.92
+    },
+    {
+     "date": "2026-10-08",
+     "close": 254.06
+    },
+    {
+     "date": "2026-10-09",
+     "close": 262.43
+    },
+    {
+     "date": "2026-10-12",
+     "close": 259.53
+    },
+    {
+     "date": "2026-10-13",
+     "close": 258.58
+    },
+    {
+     "date": "2026-10-14",
+     "close": 254.08
+    },
+    {
+     "date": "2026-10-15",
+     "close": 254.76
+    },
+    {
+     "date": "2026-10-16",
+     "close": 250.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 262.45
+    },
+    {
+     "date": "2026-10-20",
+     "close": 262.63
+    },
+    {
+     "date": "2026-10-21",
+     "close": 262.37
+    },
+    {
+     "date": "2026-10-22",
+     "close": 250.38
+    },
+    {
+     "date": "2026-10-23",
+     "close": 248.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 249.09
+    },
+    {
+     "date": "2026-10-27",
+     "close": 253.1
+    },
+    {
+     "date": "2026-10-28",
+     "close": 254.6
+    },
+    {
+     "date": "2026-10-29",
+     "close": 243.79
+    },
+    {
+     "date": "2026-10-30",
+     "close": 240.35
+    },
+    {
+     "date": "2026-11-02",
+     "close": 245.63
+    },
+    {
+     "date": "2026-11-03",
+     "close": 250.69
+    },
+    {
+     "date": "2026-11-04",
+     "close": 266.03
+    },
+    {
+     "date": "2026-11-05",
+     "close": 260.21
+    },
+    {
+     "date": "2026-11-06",
+     "close": 259.3
+    },
+    {
+     "date": "2026-11-09",
+     "close": 266.93
+    },
+    {
+     "date": "2026-11-10",
+     "close": 270.87
+    },
+    {
+     "date": "2026-11-11",
+     "close": 266.17
+    },
+    {
+     "date": "2026-11-12",
+     "close": 267.44
+    },
+    {
+     "date": "2026-11-13",
+     "close": 266.66
+    },
+    {
+     "date": "2026-11-16",
+     "close": 257.75
+    },
+    {
+     "date": "2026-11-17",
+     "close": 257.89
+    },
+    {
+     "date": "2026-11-18",
+     "close": 267.74
+    }
+   ],
+   "status": {
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail",
+    "pe_ratio": 21.6443,
+    "fifty_two_week_high": 287.2,
+    "fifty_two_week_low": 196.0,
+    "analyst_rating": "strong_buy",
+    "analyst_target": 326.09033,
+    "website": "https://www.amazon.com",
+    "summary": "Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). It also manufactures and sells electronic devices, including Kindle, fire tablets, fire TVs, echo, ring, blink, and eero; and develops and produces media content. In addition, the company offers programs that enable sellers to sell their products in its stores; and programs that allow authors, independent publisher"
+   },
+   "prediction": {
+    "expected_pct": 0.09,
+    "low_pct": -4.48,
+    "high_pct": 4.88,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "Nvidia's next CEO should be hired internally, Jeff Bezos advises",
+     "url": "https://finance.yahoo.com/video/nvidias-next-ceo-should-be-hired-internally-jeff-bezos-advises-152807796.html",
+     "publisher": "Yahoo Finance Video",
+     "date": "2026-11-18T15:28:07Z",
+     "summary": "Amazon (AMZN) founder Jeff Bezos shares remarks on whether Nvidia (NVDA) should stick to hiring an internal candidate over someone from outside the company since Jensen Huang's swift exit as CEO."
+    },
+    {
+     "title": "Amazon and Google Have a Stake",
+     "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/amazon-and-google-have-a-stake-mvLhBOWKqZDvar1niKQb?siteid=yhoof2&yptr=yahoo",
+     "publisher": "Barrons.com",
+     "date": "2026-11-18T21:23:02Z",
+     "summary": "Amazon.com and Google could soon own more than 35% of Anthropic stock."
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/AMZN",
+   "rank": 5
+  },
+  {
+   "symbol": "TSM",
+   "name": "Taiwan Semiconductor Manufacturing Company Limited",
+   "price": 362.62,
+   "currency": "USD",
+   "market_cap": 1880718811759.7048,
+   "day_change_pct": 0.81,
+   "week_change_pct": -12.27,
+   "week_direction": "Fall",
+   "month_change_pct": -14.69,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 405.49,
+     "change_pct": -1.9,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 398.73,
+     "change_pct": -1.67,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 373.45,
+     "change_pct": -6.34,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 359.69,
+     "change_pct": -3.68,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 362.62,
+     "change_pct": 0.81,
+     "direction": "Rise"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 410.99
+    },
+    {
+     "date": "2026-08-20",
+     "close": 414.89
+    },
+    {
+     "date": "2026-08-21",
+     "close": 417.83
+    },
+    {
+     "date": "2026-08-24",
+     "close": 409.02
+    },
+    {
+     "date": "2026-08-25",
+     "close": 416.29
+    },
+    {
+     "date": "2026-08-26",
+     "close": 416.57
+    },
+    {
+     "date": "2026-08-27",
+     "close": 426.16
+    },
+    {
+     "date": "2026-08-28",
+     "close": 416.4
+    },
+    {
+     "date": "2026-08-31",
+     "close": 414.21
+    },
+    {
+     "date": "2026-09-01",
+     "close": 412.89
+    },
+    {
+     "date": "2026-09-02",
+     "close": 414.39
+    },
+    {
+     "date": "2026-09-03",
+     "close": 415.89
+    },
+    {
+     "date": "2026-09-04",
+     "close": 427.76
+    },
+    {
+     "date": "2026-09-08",
+     "close": 437.83
+    },
+    {
+     "date": "2026-09-09",
+     "close": 434.2
+    },
+    {
+     "date": "2026-09-10",
+     "close": 426.88
+    },
+    {
+     "date": "2026-09-11",
+     "close": 432.08
+    },
+    {
+     "date": "2026-09-14",
+     "close": 416.89
+    },
+    {
+     "date": "2026-09-15",
+     "close": 412.64
+    },
+    {
+     "date": "2026-09-16",
+     "close": 417.72
+    },
+    {
+     "date": "2026-09-17",
+     "close": 430.26
+    },
+    {
+     "date": "2026-09-18",
+     "close": 434.67
+    },
+    {
+     "date": "2026-09-21",
+     "close": 445.14
+    },
+    {
+     "date": "2026-09-22",
+     "close": 452.0
+    },
+    {
+     "date": "2026-09-23",
+     "close": 446.57
+    },
+    {
+     "date": "2026-09-24",
+     "close": 451.15
+    },
+    {
+     "date": "2026-09-25",
+     "close": 450.61
+    },
+    {
+     "date": "2026-09-28",
+     "close": 452.88
+    },
+    {
+     "date": "2026-09-29",
+     "close": 456.94
+    },
+    {
+     "date": "2026-09-30",
+     "close": 456.19
+    },
+    {
+     "date": "2026-10-01",
+     "close": 459.2
+    },
+    {
+     "date": "2026-10-02",
+     "close": 472.78
+    },
+    {
+     "date": "2026-10-05",
+     "close": 485.8
+    },
+    {
+     "date": "2026-10-06",
+     "close": 482.3
+    },
+    {
+     "date": "2026-10-07",
+     "close": 472.2
+    },
+    {
+     "date": "2026-10-08",
+     "close": 457.99
+    },
+    {
+     "date": "2026-10-09",
+     "close": 453.31
+    },
+    {
+     "date": "2026-10-12",
+     "close": 444.35
+    },
+    {
+     "date": "2026-10-13",
+     "close": 445.12
+    },
+    {
+     "date": "2026-10-14",
+     "close": 430.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 422.25
+    },
+    {
+     "date": "2026-10-16",
+     "close": 412.61
+    },
+    {
+     "date": "2026-10-19",
+     "close": 420.22
+    },
+    {
+     "date": "2026-10-20",
+     "close": 425.08
+    },
+    {
+     "date": "2026-10-21",
+     "close": 431.89
+    },
+    {
+     "date": "2026-10-22",
+     "close": 412.35
+    },
+    {
+     "date": "2026-10-23",
+     "close": 418.51
+    },
+    {
+     "date": "2026-10-26",
+     "close": 424.37
+    },
+    {
+     "date": "2026-10-27",
+     "close": 436.87
+    },
+    {
+     "date": "2026-10-28",
+     "close": 439.51
+    },
+    {
+     "date": "2026-10-29",
+     "close": 431.81
+    },
+    {
+     "date": "2026-10-30",
+     "close": 406.13
+    },
+    {
+     "date": "2026-11-02",
+     "close": 398.63
+    },
+    {
+     "date": "2026-11-03",
+     "close": 404.8
+    },
+    {
+     "date": "2026-11-04",
+     "close": 395.75
+    },
+    {
+     "date": "2026-11-05",
+     "close": 353.1
+    },
+    {
+     "date": "2026-11-06",
+     "close": 375.44
+    },
+    {
+     "date": "2026-11-09",
+     "close": 388.62
+    },
+    {
+     "date": "2026-11-10",
+     "close": 396.48
+    },
+    {
+     "date": "2026-11-11",
+     "close": 413.35
+    },
+    {
+     "date": "2026-11-12",
+     "close": 405.49
+    },
+    {
+     "date": "2026-11-13",
+     "close": 398.73
+    },
+    {
+     "date": "2026-11-16",
+     "close": 373.45
+    },
+    {
+     "date": "2026-11-17",
+     "close": 359.69
+    },
+    {
+     "date": "2026-11-18",
+     "close": 362.62
+    }
+   ],
+   "status": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "pe_ratio": 23.50097,
+    "fifty_two_week_high": 487.47,
+    "fifty_two_week_low": 266.82,
+    "analyst_rating": "strong_buy",
+    "analyst_target": 586.693,
+    "website": "https://www.tsmc.com",
+    "summary": "Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others. The company also involved in providing customer and engineering support services; manufacturing of ma"
+   },
+   "prediction": {
+    "expected_pct": -0.46,
+    "low_pct": -6.64,
+    "high_pct": 6.14,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stock-tsm-looks-210800765.html",
+     "publisher": "TipRanks",
+     "date": "2026-11-18T21:08:00Z",
+     "summary": "Taiwan Semiconductor Manufacturing (TSM) stock looks too cheap for its growth outlook. The leading semiconductor foundry has fallen with the wider artificial intelligence (AI) trade. Shares are down roughly 26% since hitting an early-October peak of $487, pulled down by a semiconductor sell-off trig"
+    },
+    {
+     "title": "Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets",
+     "url": "https://finance.yahoo.com/markets/options/articles/nvidia-micron-tsmc-face-massive-191112704.html",
+     "publisher": "GuruFocus.com",
+     "date": "2026-11-18T19:11:12Z",
+     "summary": "Investors Bet Big Against a Market Drop as S&P 500 Hedging Surges to 2025 High"
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/TSM",
+   "rank": 6
+  },
+  {
+   "symbol": "AVGO",
+   "name": "Broadcom Inc.",
+   "price": 354.05,
+   "currency": "USD",
+   "market_cap": 1690103595431.4011,
+   "day_change_pct": 3.64,
+   "week_change_pct": 2.56,
+   "week_direction": "Rise",
+   "month_change_pct": 5.89,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 364.36,
+     "change_pct": 5.54,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 347.01,
+     "change_pct": -4.76,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 333.4,
+     "change_pct": -3.92,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 341.6,
+     "change_pct": 2.46,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 354.05,
+     "change_pct": 3.64,
+     "direction": "Rise"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 361.82
+    },
+    {
+     "date": "2026-08-20",
+     "close": 363.37
+    },
+    {
+     "date": "2026-08-21",
+     "close": 367.78
+    },
+    {
+     "date": "2026-08-24",
+     "close": 358.11
+    },
+    {
+     "date": "2026-08-25",
+     "close": 356.09
+    },
+    {
+     "date": "2026-08-26",
+     "close": 354.94
+    },
+    {
+     "date": "2026-08-27",
+     "close": 370.86
+    },
+    {
+     "date": "2026-08-28",
+     "close": 368.12
+    },
+    {
+     "date": "2026-08-31",
+     "close": 369.67
+    },
+    {
+     "date": "2026-09-01",
+     "close": 369.01
+    },
+    {
+     "date": "2026-09-02",
+     "close": 366.57
+    },
+    {
+     "date": "2026-09-03",
+     "close": 356.51
+    },
+    {
+     "date": "2026-09-04",
+     "close": 357.25
+    },
+    {
+     "date": "2026-09-08",
+     "close": 367.89
+    },
+    {
+     "date": "2026-09-09",
+     "close": 363.72
+    },
+    {
+     "date": "2026-09-10",
+     "close": 360.17
+    },
+    {
+     "date": "2026-09-11",
+     "close": 361.33
+    },
+    {
+     "date": "2026-09-14",
+     "close": 344.09
+    },
+    {
+     "date": "2026-09-15",
+     "close": 338.65
+    },
+    {
+     "date": "2026-09-16",
+     "close": 338.89
+    },
+    {
+     "date": "2026-09-17",
+     "close": 346.67
+    },
+    {
+     "date": "2026-09-18",
+     "close": 356.96
+    },
+    {
+     "date": "2026-09-21",
+     "close": 362.66
+    },
+    {
+     "date": "2026-09-22",
+     "close": 364.54
+    },
+    {
+     "date": "2026-09-23",
+     "close": 354.99
+    },
+    {
+     "date": "2026-09-24",
+     "close": 350.36
+    },
+    {
+     "date": "2026-09-25",
+     "close": 352.81
+    },
+    {
+     "date": "2026-09-28",
+     "close": 349.57
+    },
+    {
+     "date": "2026-09-29",
+     "close": 355.1
+    },
+    {
+     "date": "2026-09-30",
+     "close": 351.19
+    },
+    {
+     "date": "2026-10-01",
+     "close": 343.64
+    },
+    {
+     "date": "2026-10-02",
+     "close": 355.14
+    },
+    {
+     "date": "2026-10-05",
+     "close": 362.51
+    },
+    {
+     "date": "2026-10-06",
+     "close": 375.81
+    },
+    {
+     "date": "2026-10-07",
+     "close": 376.51
+    },
+    {
+     "date": "2026-10-08",
+     "close": 360.14
+    },
+    {
+     "date": "2026-10-09",
+     "close": 361.54
+    },
+    {
+     "date": "2026-10-12",
+     "close": 354.73
+    },
+    {
+     "date": "2026-10-13",
+     "close": 357.31
+    },
+    {
+     "date": "2026-10-14",
+     "close": 346.25
+    },
+    {
+     "date": "2026-10-15",
+     "close": 344.33
+    },
+    {
+     "date": "2026-10-16",
+     "close": 328.75
+    },
+    {
+     "date": "2026-10-19",
+     "close": 334.59
+    },
+    {
+     "date": "2026-10-20",
+     "close": 334.37
+    },
+    {
+     "date": "2026-10-21",
+     "close": 337.8
+    },
+    {
+     "date": "2026-10-22",
+     "close": 323.24
+    },
+    {
+     "date": "2026-10-23",
+     "close": 321.68
+    },
+    {
+     "date": "2026-10-26",
+     "close": 329.17
+    },
+    {
+     "date": "2026-10-27",
+     "close": 342.33
+    },
+    {
+     "date": "2026-10-28",
+     "close": 351.81
+    },
+    {
+     "date": "2026-10-29",
+     "close": 345.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 326.08
+    },
+    {
+     "date": "2026-11-02",
+     "close": 322.23
+    },
+    {
+     "date": "2026-11-03",
+     "close": 332.13
+    },
+    {
+     "date": "2026-11-04",
+     "close": 325.48
+    },
+    {
+     "date": "2026-11-05",
+     "close": 291.53
+    },
+    {
+     "date": "2026-11-06",
+     "close": 293.69
+    },
+    {
+     "date": "2026-11-09",
+     "close": 319.48
+    },
+    {
+     "date": "2026-11-10",
+     "close": 331.98
+    },
+    {
+     "date": "2026-11-11",
+     "close": 345.22
+    },
+    {
+     "date": "2026-11-12",
+     "close": 364.36
+    },
+    {
+     "date": "2026-11-13",
+     "close": 347.01
+    },
+    {
+     "date": "2026-11-16",
+     "close": 333.4
+    },
+    {
+     "date": "2026-11-17",
+     "close": 341.6
+    },
+    {
+     "date": "2026-11-18",
+     "close": 354.05
+    }
+   ],
+   "status": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "pe_ratio": 45.217113,
+    "fifty_two_week_high": 495.0,
+    "fifty_two_week_low": 289.77,
+    "analyst_rating": "strong_buy",
+    "analyst_target": 528.17426,
+    "website": "https://www.broadcom.com",
+    "summary": "Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software. The company offers networking connectivity, such as custom silicon solutions, ethernet switching & routing, ethernet NIC controllers, physical layer devices, and fiber optic components; wireless device connectivity, including RF semiconductor devices, connectivity solutions, custom touch controllers, and inductive charging ASICS; servers and storage system solutions, such as "
+   },
+   "prediction": {
+    "expected_pct": -0.46,
+    "low_pct": -7.35,
+    "high_pct": 6.95,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
+     "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+     "publisher": "Yahoo Finance",
+     "date": "2026-11-17T22:01:59Z",
+     "summary": "Semiconductor and AI infrastructure stocks were mixed on Wednesday after AI chip heavyweight Nvidia posted better-than-expected quarterly results."
+    },
+    {
+     "title": "Broadcom's Cash Holds Up Better Than Nvidia's",
+     "url": "https://www.trefis.com/stock/avgo/articles/626108/broadcom-s-cash-holds-up-better-than-nvidia-s/2026-11-18",
+     "publisher": "Trefis",
+     "date": "2026-11-18T18:05:21Z",
+     "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036."
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/AVGO",
+   "rank": 7
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms, Inc.",
+   "price": 616.38,
+   "currency": "USD",
+   "market_cap": 1575615996005.7866,
+   "day_change_pct": -0.4,
+   "week_change_pct": -1.97,
+   "week_direction": "Fall",
+   "month_change_pct": -11.22,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 623.61,
+     "change_pct": -0.82,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 641.69,
+     "change_pct": 2.9,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 626.41,
+     "change_pct": -2.38,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 618.87,
+     "change_pct": -1.2,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 616.38,
+     "change_pct": -0.4,
+     "direction": "Fall"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 545.6
+    },
+    {
+     "date": "2026-08-20",
+     "close": 545.4
+    },
+    {
+     "date": "2026-08-21",
+     "close": 549.47
+    },
+    {
+     "date": "2026-08-24",
+     "close": 558.58
+    },
+    {
+     "date": "2026-08-25",
+     "close": 569.6
+    },
+    {
+     "date": "2026-08-26",
+     "close": 575.69
+    },
+    {
+     "date": "2026-08-27",
+     "close": 570.65
+    },
+    {
+     "date": "2026-08-28",
+     "close": 577.56
+    },
+    {
+     "date": "2026-08-31",
+     "close": 571.89
+    },
+    {
+     "date": "2026-09-01",
+     "close": 578.08
+    },
+    {
+     "date": "2026-09-02",
+     "close": 592.38
+    },
+    {
+     "date": "2026-09-03",
+     "close": 610.2
+    },
+    {
+     "date": "2026-09-04",
+     "close": 616.28
+    },
+    {
+     "date": "2026-09-08",
+     "close": 613.0
+    },
+    {
+     "date": "2026-09-09",
+     "close": 653.17
+    },
+    {
+     "date": "2026-09-10",
+     "close": 643.87
+    },
+    {
+     "date": "2026-09-11",
+     "close": 647.52
+    },
+    {
+     "date": "2026-09-14",
+     "close": 665.08
+    },
+    {
+     "date": "2026-09-15",
+     "close": 669.71
+    },
+    {
+     "date": "2026-09-16",
+     "close": 672.78
+    },
+    {
+     "date": "2026-09-17",
+     "close": 681.77
+    },
+    {
+     "date": "2026-09-18",
+     "close": 665.23
+    },
+    {
+     "date": "2026-09-21",
+     "close": 741.25
+    },
+    {
+     "date": "2026-09-22",
+     "close": 736.6
+    },
+    {
+     "date": "2026-09-23",
+     "close": 744.1
+    },
+    {
+     "date": "2026-09-24",
+     "close": 777.59
+    },
+    {
+     "date": "2026-09-25",
+     "close": 751.66
+    },
+    {
+     "date": "2026-09-28",
+     "close": 715.62
+    },
+    {
+     "date": "2026-09-29",
+     "close": 738.79
+    },
+    {
+     "date": "2026-09-30",
+     "close": 725.18
+    },
+    {
+     "date": "2026-10-01",
+     "close": 725.93
+    },
+    {
+     "date": "2026-10-02",
+     "close": 728.08
+    },
+    {
+     "date": "2026-10-05",
+     "close": 741.9
+    },
+    {
+     "date": "2026-10-06",
+     "close": 738.88
+    },
+    {
+     "date": "2026-10-07",
+     "close": 721.31
+    },
+    {
+     "date": "2026-10-08",
+     "close": 720.89
+    },
+    {
+     "date": "2026-10-09",
+     "close": 718.67
+    },
+    {
+     "date": "2026-10-12",
+     "close": 742.96
+    },
+    {
+     "date": "2026-10-13",
+     "close": 762.5
+    },
+    {
+     "date": "2026-10-14",
+     "close": 737.54
+    },
+    {
+     "date": "2026-10-15",
+     "close": 736.72
+    },
+    {
+     "date": "2026-10-16",
+     "close": 709.33
+    },
+    {
+     "date": "2026-10-19",
+     "close": 705.44
+    },
+    {
+     "date": "2026-10-20",
+     "close": 694.25
+    },
+    {
+     "date": "2026-10-21",
+     "close": 697.52
+    },
+    {
+     "date": "2026-10-22",
+     "close": 648.85
+    },
+    {
+     "date": "2026-10-23",
+     "close": 642.62
+    },
+    {
+     "date": "2026-10-26",
+     "close": 630.56
+    },
+    {
+     "date": "2026-10-27",
+     "close": 620.19
+    },
+    {
+     "date": "2026-10-28",
+     "close": 612.49
+    },
+    {
+     "date": "2026-10-29",
+     "close": 624.52
+    },
+    {
+     "date": "2026-10-30",
+     "close": 614.99
+    },
+    {
+     "date": "2026-11-02",
+     "close": 606.73
+    },
+    {
+     "date": "2026-11-03",
+     "close": 621.03
+    },
+    {
+     "date": "2026-11-04",
+     "close": 630.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 605.08
+    },
+    {
+     "date": "2026-11-06",
+     "close": 610.15
+    },
+    {
+     "date": "2026-11-09",
+     "close": 641.37
+    },
+    {
+     "date": "2026-11-10",
+     "close": 641.39
+    },
+    {
+     "date": "2026-11-11",
+     "close": 628.77
+    },
+    {
+     "date": "2026-11-12",
+     "close": 623.61
+    },
+    {
+     "date": "2026-11-13",
+     "close": 641.69
+    },
+    {
+     "date": "2026-11-16",
+     "close": 626.41
+    },
+    {
+     "date": "2026-11-17",
+     "close": 618.87
+    },
+    {
+     "date": "2026-11-18",
+     "close": 616.38
+    }
+   ],
+   "status": {
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "pe_ratio": 21.029684,
+    "fifty_two_week_high": 779.82,
+    "fifty_two_week_low": 520.26,
+    "analyst_rating": "strong_buy",
+    "analyst_target": 848.2262,
+    "website": "https://www.meta.com",
+    "summary": "Meta Platforms, Inc. engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality (VR) headsets, and AI glasses in the United States, Canada, Europe, Asia-Pacific, and internationally. It operates through two segments, Family of Apps (FoA) and Reality Labs (RL). The FoA segment offers Facebook, which enables people to build community through feed, reels, stories, groups, marketplace, and other; Instagram that brings people closer through Instagram feed, stories, reels, live, and messaging; Mes"
+   },
+   "prediction": {
+    "expected_pct": -0.02,
+    "low_pct": -6.12,
+    "high_pct": 6.48,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "Meta Pauses Zuckerberg Share Plan During Investor Legal Fight",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/meta-pauses-zuckerberg-share-plan-204515945.html",
+     "publisher": "Bloomberg",
+     "date": "2026-11-18T20:45:15Z",
+     "summary": "Meta Platforms Inc. said it will hold off on distributing a new class of shares while a legal fight plays out with investors who oppose the tech giant\u2019s plan to fund the company\u2019s artificial intelligence investments without diluting Chief Executive Officer Mark Zuckerberg\u2019s stake."
+    },
+    {
+     "title": "Warning for Meta Investors: Muse \u201cHas to Be 20x\u201d What It Is Now to Make an Impact, Says Dan Nathan",
+     "url": "https://www.tikr.com/blog/warning-for-meta-investors-muse-has-to-be-20x-what-it-is-now-to-make-an-impact-says-dan-nathan?ref=yahoofinance&tlnk=yf-261118-9x8h58hq",
+     "publisher": "TIKR",
+     "date": "2026-11-18T17:53:15Z",
+     "summary": "Key TakeawaysMeta says more than 10 million people set up Muse in about six weeks, but Dan Nathan says that number has to be 20x larger to make an impact. Each new Muse user adds compute cost for Meta before it adds revenue, and that cost is revenue for its chip suppliers."
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/META",
+   "rank": 8
+  },
+  {
+   "symbol": "TSLA",
+   "name": "Tesla, Inc.",
+   "price": 383.72,
+   "currency": "USD",
+   "market_cap": 1516752283864.264,
+   "day_change_pct": 0.95,
+   "week_change_pct": -1.82,
+   "week_direction": "Fall",
+   "month_change_pct": 2.68,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 397.45,
+     "change_pct": 1.69,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 390.22,
+     "change_pct": -1.82,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 379.74,
+     "change_pct": -2.69,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 380.11,
+     "change_pct": 0.1,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 383.72,
+     "change_pct": 0.95,
+     "direction": "Rise"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 351.12
+    },
+    {
+     "date": "2026-08-20",
+     "close": 345.13
+    },
+    {
+     "date": "2026-08-21",
+     "close": 362.86
+    },
+    {
+     "date": "2026-08-24",
+     "close": 348.95
+    },
+    {
+     "date": "2026-08-25",
+     "close": 350.25
+    },
+    {
+     "date": "2026-08-26",
+     "close": 345.82
+    },
+    {
+     "date": "2026-08-27",
+     "close": 354.81
+    },
+    {
+     "date": "2026-08-28",
+     "close": 348.75
+    },
+    {
+     "date": "2026-08-31",
+     "close": 367.95
+    },
+    {
+     "date": "2026-09-01",
+     "close": 356.09
+    },
+    {
+     "date": "2026-09-02",
+     "close": 357.01
+    },
+    {
+     "date": "2026-09-03",
+     "close": 376.37
+    },
+    {
+     "date": "2026-09-04",
+     "close": 354.08
+    },
+    {
+     "date": "2026-09-08",
+     "close": 368.16
+    },
+    {
+     "date": "2026-09-09",
+     "close": 367.81
+    },
+    {
+     "date": "2026-09-10",
+     "close": 363.56
+    },
+    {
+     "date": "2026-09-11",
+     "close": 365.44
+    },
+    {
+     "date": "2026-09-14",
+     "close": 358.97
+    },
+    {
+     "date": "2026-09-15",
+     "close": 356.58
+    },
+    {
+     "date": "2026-09-16",
+     "close": 358.08
+    },
+    {
+     "date": "2026-09-17",
+     "close": 366.2
+    },
+    {
+     "date": "2026-09-18",
+     "close": 364.27
+    },
+    {
+     "date": "2026-09-21",
+     "close": 375.3
+    },
+    {
+     "date": "2026-09-22",
+     "close": 378.9
+    },
+    {
+     "date": "2026-09-23",
+     "close": 380.12
+    },
+    {
+     "date": "2026-09-24",
+     "close": 377.94
+    },
+    {
+     "date": "2026-09-25",
+     "close": 372.11
+    },
+    {
+     "date": "2026-09-28",
+     "close": 357.45
+    },
+    {
+     "date": "2026-09-29",
+     "close": 352.84
+    },
+    {
+     "date": "2026-09-30",
+     "close": 354.81
+    },
+    {
+     "date": "2026-10-01",
+     "close": 354.11
+    },
+    {
+     "date": "2026-10-02",
+     "close": 370.59
+    },
+    {
+     "date": "2026-10-05",
+     "close": 378.73
+    },
+    {
+     "date": "2026-10-06",
+     "close": 380.68
+    },
+    {
+     "date": "2026-10-07",
+     "close": 377.81
+    },
+    {
+     "date": "2026-10-08",
+     "close": 375.0
+    },
+    {
+     "date": "2026-10-09",
+     "close": 382.7
+    },
+    {
+     "date": "2026-10-12",
+     "close": 378.03
+    },
+    {
+     "date": "2026-10-13",
+     "close": 375.23
+    },
+    {
+     "date": "2026-10-14",
+     "close": 367.16
+    },
+    {
+     "date": "2026-10-15",
+     "close": 362.44
+    },
+    {
+     "date": "2026-10-16",
+     "close": 354.72
+    },
+    {
+     "date": "2026-10-19",
+     "close": 368.06
+    },
+    {
+     "date": "2026-10-20",
+     "close": 373.71
+    },
+    {
+     "date": "2026-10-21",
+     "close": 386.47
+    },
+    {
+     "date": "2026-10-22",
+     "close": 374.58
+    },
+    {
+     "date": "2026-10-23",
+     "close": 372.22
+    },
+    {
+     "date": "2026-10-26",
+     "close": 391.62
+    },
+    {
+     "date": "2026-10-27",
+     "close": 407.46
+    },
+    {
+     "date": "2026-10-28",
+     "close": 404.22
+    },
+    {
+     "date": "2026-10-29",
+     "close": 403.3
+    },
+    {
+     "date": "2026-10-30",
+     "close": 399.81
+    },
+    {
+     "date": "2026-11-02",
+     "close": 403.82
+    },
+    {
+     "date": "2026-11-03",
+     "close": 398.5
+    },
+    {
+     "date": "2026-11-04",
+     "close": 385.19
+    },
+    {
+     "date": "2026-11-05",
+     "close": 343.69
+    },
+    {
+     "date": "2026-11-06",
+     "close": 358.22
+    },
+    {
+     "date": "2026-11-09",
+     "close": 378.05
+    },
+    {
+     "date": "2026-11-10",
+     "close": 379.78
+    },
+    {
+     "date": "2026-11-11",
+     "close": 390.84
+    },
+    {
+     "date": "2026-11-12",
+     "close": 397.45
+    },
+    {
+     "date": "2026-11-13",
+     "close": 390.22
+    },
+    {
+     "date": "2026-11-16",
+     "close": 379.74
+    },
+    {
+     "date": "2026-11-17",
+     "close": 380.11
+    },
+    {
+     "date": "2026-11-18",
+     "close": 383.72
+    }
+   ],
+   "status": {
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "pe_ratio": 421.67032,
+    "fifty_two_week_high": 498.83,
+    "fifty_two_week_low": 297.38,
+    "analyst_rating": "buy",
+    "analyst_target": 412.47626,
+    "website": "https://www.tesla.com",
+    "summary": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage. The company offers electric vehicles, as well as sells automotive regulatory credits; and non-warranty maintenance services and collision, automotive insurance services, as well as part sales and retail merchandise sale. It also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Supercharge"
+   },
+   "prediction": {
+    "expected_pct": 0.36,
+    "low_pct": -6.06,
+    "high_pct": 7.22,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "Skydance\u2019s Ellison Welcomes Musk Investment While Committing To Airing Documentary Critical Of Tesla CEO",
+     "url": "https://stocktwits.com/news-articles/markets/equity/skydance-s-ellison-welcomes-musk-investment-while-committing-to-airing-documentary-critical-of-tesla-ceo/cNbghalR9iP",
+     "publisher": "Stocktwits",
+     "date": "2026-11-18T21:22:50Z",
+     "summary": "Ellison acknowledged Musk\u2019s stake for the first time at DealBook Summit 2026, amid reports that the investment totaled roughly $1 billion after the deal closed."
+    },
+    {
+     "title": "Tesla Stock Is Still a High-Stakes Bet on the Future. Here\u2019s My Price Target",
+     "url": "https://247wallst.com/investing/2026/11/18/tesla-stock-is-still-a-high-stakes-bet-on-the-future-heres-my-price-target/",
+     "publisher": "24/7 Wall St.",
+     "date": "2026-11-18T17:33:28Z",
+     "summary": "Tesla's business is accelerating while its shares sit in the red, and Wall Street remains unconvinced. One bold 2027 scenario would force the market to rethink everything, but it hinges on a number analysts keep moving the wrong way."
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/TSLA",
+   "rank": 9
+  },
+  {
+   "symbol": "LLY",
+   "name": "Eli Lilly and Company",
+   "price": 1382.75,
+   "currency": "USD",
+   "market_cap": 1231677691615.25,
+   "day_change_pct": -2.32,
+   "week_change_pct": -3.68,
+   "week_direction": "Fall",
+   "month_change_pct": 7.85,
+   "week_daily": [
+    {
+     "date": "2026-11-12",
+     "close": 1425.55,
+     "change_pct": -0.7,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-13",
+     "close": 1443.5,
+     "change_pct": 1.26,
+     "direction": "Rise"
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1431.67,
+     "change_pct": -0.82,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-17",
+     "close": 1415.55,
+     "change_pct": -1.13,
+     "direction": "Fall"
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1382.75,
+     "change_pct": -2.32,
+     "direction": "Fall"
+    }
+   ],
+   "history": [
+    {
+     "date": "2026-08-19",
+     "close": 1278.79
+    },
+    {
+     "date": "2026-08-20",
+     "close": 1242.89
+    },
+    {
+     "date": "2026-08-21",
+     "close": 1253.88
+    },
+    {
+     "date": "2026-08-24",
+     "close": 1245.42
+    },
+    {
+     "date": "2026-08-25",
+     "close": 1232.16
+    },
+    {
+     "date": "2026-08-26",
+     "close": 1187.97
+    },
+    {
+     "date": "2026-08-27",
+     "close": 1174.67
+    },
+    {
+     "date": "2026-08-28",
+     "close": 1173.19
+    },
+    {
+     "date": "2026-08-31",
+     "close": 1155.33
+    },
+    {
+     "date": "2026-09-01",
+     "close": 1158.59
+    },
+    {
+     "date": "2026-09-02",
+     "close": 1158.67
+    },
+    {
+     "date": "2026-09-03",
+     "close": 1158.19
+    },
+    {
+     "date": "2026-09-04",
+     "close": 1147.97
+    },
+    {
+     "date": "2026-09-08",
+     "close": 1122.55
+    },
+    {
+     "date": "2026-09-09",
+     "close": 1122.85
+    },
+    {
+     "date": "2026-09-10",
+     "close": 1121.64
+    },
+    {
+     "date": "2026-09-11",
+     "close": 1114.35
+    },
+    {
+     "date": "2026-09-14",
+     "close": 1136.9
+    },
+    {
+     "date": "2026-09-15",
+     "close": 1134.73
+    },
+    {
+     "date": "2026-09-16",
+     "close": 1136.44
+    },
+    {
+     "date": "2026-09-17",
+     "close": 1151.04
+    },
+    {
+     "date": "2026-09-18",
+     "close": 1151.53
+    },
+    {
+     "date": "2026-09-21",
+     "close": 1163.48
+    },
+    {
+     "date": "2026-09-22",
+     "close": 1168.72
+    },
+    {
+     "date": "2026-09-23",
+     "close": 1149.59
+    },
+    {
+     "date": "2026-09-24",
+     "close": 1180.46
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1182.03
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1183.34
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1183.19
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1155.68
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1148.46
+    },
+    {
+     "date": "2026-10-02",
+     "close": 1141.46
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1141.73
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1156.09
+    },
+    {
+     "date": "2026-10-07",
+     "close": 1187.28
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1168.18
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1177.84
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1181.19
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1165.1
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1207.27
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1250.09
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1255.51
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1238.84
+    },
+    {
+     "date": "2026-10-20",
+     "close": 1282.1
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1269.21
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1305.11
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1271.92
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1277.59
+    },
+    {
+     "date": "2026-10-27",
+     "close": 1280.36
+    },
+    {
+     "date": "2026-10-28",
+     "close": 1286.74
+    },
+    {
+     "date": "2026-10-29",
+     "close": 1372.03
+    },
+    {
+     "date": "2026-10-30",
+     "close": 1415.82
+    },
+    {
+     "date": "2026-11-02",
+     "close": 1409.28
+    },
+    {
+     "date": "2026-11-03",
+     "close": 1407.67
+    },
+    {
+     "date": "2026-11-04",
+     "close": 1416.27
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1363.08
+    },
+    {
+     "date": "2026-11-06",
+     "close": 1352.36
+    },
+    {
+     "date": "2026-11-09",
+     "close": 1410.24
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1430.55
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1435.55
+    },
+    {
+     "date": "2026-11-12",
+     "close": 1425.55
+    },
+    {
+     "date": "2026-11-13",
+     "close": 1443.5
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1431.67
+    },
+    {
+     "date": "2026-11-17",
+     "close": 1415.55
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1382.75
+    }
+   ],
+   "status": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General",
+    "pe_ratio": 44.87991,
+    "fifty_two_week_high": 1475.25,
+    "fifty_two_week_low": 850.51,
+    "analyst_rating": "buy",
+    "analyst_target": 1468.5737,
+    "website": "https://www.lilly.com",
+    "summary": "Eli Lilly and Company discovers, develops, manufactures, and markets human pharmaceutical products in the United States, Europe, China, Japan, and internationally. The company offers cardiometabolic health products, including Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin, Humulin 70/30, Humulin N, Humulin R, Humulin U-500 for diabetes; Jardiance, Mounjaro, and Trulicity for type 2 diabetes; and Zepbound for obesity. It also provides oncology products, such as Cyramza for the sec"
+   },
+   "prediction": {
+    "expected_pct": 1.09,
+    "low_pct": -2.96,
+    "high_pct": 5.3,
+    "confidence": "low"
+   },
+   "sources": [
+    {
+     "title": "Lilly Buying Spree Surpasses $32B",
+     "url": "https://finance.yahoo.com/video/lilly-buying-spree-surpasses-32b-211325209.html",
+     "publisher": "Bloomberg",
+     "date": "2026-11-18T21:13:25Z",
+     "summary": "Bloomberg's Madison Muller joins Dani Burger on \"Bloomberg Deals.\"\u00a0 Eli Lilly agreed to buy closely held Calytrix Bio in a deal that could be worth up to $1.5 billion, the latest in the drugmaker's $32 billion wave of acquisitions in 2026 as it builds out its cancer and immunology businesses."
+    },
+    {
+     "title": "Is Lilly Stock's Winning Streak Skill Or Luck?",
+     "url": "https://www.trefis.com/stock/lly/articles/626270/is-lilly-stocks-winning-streak-skill-or-luck/2026-11-18",
+     "publisher": "Trefis",
+     "date": "2026-11-18T15:07:09Z",
+     "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036."
+    }
+   ],
+   "quote_url": "https://finance.yahoo.com/quote/LLY",
+   "rank": 10
+  }
+ ],
+ "rising": {
+  "symbol": "PG",
+  "name": "The Procter & Gamble Company",
+  "price": 170.29,
+  "currency": "USD",
+  "market_cap": 394695275860.1818,
+  "day_change_pct": -0.83,
+  "week_change_pct": 1.56,
+  "week_direction": "Rise",
+  "month_change_pct": 7.59,
+  "week_daily": [
+   {
+    "date": "2026-11-12",
+    "close": 168.03,
+    "change_pct": 0.21,
+    "direction": "Rise"
+   },
+   {
+    "date": "2026-11-13",
+    "close": 169.8,
+    "change_pct": 1.05,
+    "direction": "Rise"
+   },
+   {
+    "date": "2026-11-16",
+    "close": 173.02,
+    "change_pct": 1.9,
+    "direction": "Rise"
+   },
+   {
+    "date": "2026-11-17",
+    "close": 171.72,
+    "change_pct": -0.75,
+    "direction": "Fall"
+   },
+   {
+    "date": "2026-11-18",
+    "close": 170.29,
+    "change_pct": -0.83,
+    "direction": "Fall"
+   }
+  ],
+  "history": [
+   {
+    "date": "2026-08-19",
+    "close": 143.43
+   },
+   {
+    "date": "2026-08-20",
+    "close": 142.03
+   },
+   {
+    "date": "2026-08-21",
+    "close": 143.73
+   },
+   {
+    "date": "2026-08-24",
+    "close": 145.64
+   },
+   {
+    "date": "2026-08-25",
+    "close": 144.44
+   },
+   {
+    "date": "2026-08-26",
+    "close": 144.05
+   },
+   {
+    "date": "2026-08-27",
+    "close": 142.2
+   },
+   {
+    "date": "2026-08-28",
+    "close": 142.83
+   },
+   {
+    "date": "2026-08-31",
+    "close": 144.17
+   },
+   {
+    "date": "2026-09-01",
+    "close": 145.25
+   },
+   {
+    "date": "2026-09-02",
+    "close": 146.67
+   },
+   {
+    "date": "2026-09-03",
+    "close": 145.95
+   },
+   {
+    "date": "2026-09-04",
+    "close": 145.48
+   },
+   {
+    "date": "2026-09-08",
+    "close": 144.62
+   },
+   {
+    "date": "2026-09-09",
+    "close": 141.7
+   },
+   {
+    "date": "2026-09-10",
+    "close": 142.03
+   },
+   {
+    "date": "2026-09-11",
+    "close": 144.31
+   },
+   {
+    "date": "2026-09-14",
+    "close": 145.17
+   },
+   {
+    "date": "2026-09-15",
+    "close": 145.71
+   },
+   {
+    "date": "2026-09-16",
+    "close": 146.05
+   },
+   {
+    "date": "2026-09-17",
+    "close": 146.58
+   },
+   {
+    "date": "2026-09-18",
+    "close": 145.43
+   },
+   {
+    "date": "2026-09-21",
+    "close": 145.12
+   },
+   {
+    "date": "2026-09-22",
+    "close": 147.25
+   },
+   {
+    "date": "2026-09-23",
+    "close": 146.42
+   },
+   {
+    "date": "2026-09-24",
+    "close": 144.72
+   },
+   {
+    "date": "2026-09-25",
+    "close": 145.27
+   },
+   {
+    "date": "2026-09-28",
+    "close": 148.05
+   },
+   {
+    "date": "2026-09-29",
+    "close": 147.34
+   },
+   {
+    "date": "2026-09-30",
+    "close": 144.32
+   },
+   {
+    "date": "2026-10-01",
+    "close": 143.0
+   },
+   {
+    "date": "2026-10-02",
+    "close": 143.96
+   },
+   {
+    "date": "2026-10-05",
+    "close": 144.98
+   },
+   {
+    "date": "2026-10-06",
+    "close": 147.43
+   },
+   {
+    "date": "2026-10-07",
+    "close": 146.85
+   },
+   {
+    "date": "2026-10-08",
+    "close": 149.6
+   },
+   {
+    "date": "2026-10-09",
+    "close": 150.24
+   },
+   {
+    "date": "2026-10-12",
+    "close": 152.19
+   },
+   {
+    "date": "2026-10-13",
+    "close": 152.03
+   },
+   {
+    "date": "2026-10-14",
+    "close": 155.5
+   },
+   {
+    "date": "2026-10-15",
+    "close": 156.05
+   },
+   {
+    "date": "2026-10-16",
+    "close": 158.3
+   },
+   {
+    "date": "2026-10-19",
+    "close": 156.65
+   },
+   {
+    "date": "2026-10-20",
+    "close": 158.27
+   },
+   {
+    "date": "2026-10-21",
+    "close": 155.81
+   },
+   {
+    "date": "2026-10-22",
+    "close": 164.5
+   },
+   {
+    "date": "2026-10-23",
+    "close": 161.02
+   },
+   {
+    "date": "2026-10-26",
+    "close": 159.92
+   },
+   {
+    "date": "2026-10-27",
+    "close": 159.23
+   },
+   {
+    "date": "2026-10-28",
+    "close": 158.26
+   },
+   {
+    "date": "2026-10-29",
+    "close": 160.59
+   },
+   {
+    "date": "2026-10-30",
+    "close": 161.57
+   },
+   {
+    "date": "2026-11-02",
+    "close": 163.56
+   },
+   {
+    "date": "2026-11-03",
+    "close": 162.06
+   },
+   {
+    "date": "2026-11-04",
+    "close": 167.32
+   },
+   {
+    "date": "2026-11-05",
+    "close": 167.1
+   },
+   {
+    "date": "2026-11-06",
+    "close": 165.4
+   },
+   {
+    "date": "2026-11-09",
+    "close": 168.32
+   },
+   {
+    "date": "2026-11-10",
+    "close": 168.66
+   },
+   {
+    "date": "2026-11-11",
+    "close": 167.67
+   },
+   {
+    "date": "2026-11-12",
+    "close": 168.03
+   },
+   {
+    "date": "2026-11-13",
+    "close": 169.8
+   },
+   {
+    "date": "2026-11-16",
+    "close": 173.02
+   },
+   {
+    "date": "2026-11-17",
+    "close": 171.72
+   },
+   {
+    "date": "2026-11-18",
+    "close": 170.29
+   }
+  ],
+  "status": {
+   "sector": "Consumer Defensive",
+   "industry": "Household & Personal Products",
+   "pe_ratio": 25.646084,
+   "fifty_two_week_high": 173.59,
+   "fifty_two_week_low": 137.62,
+   "analyst_rating": "buy",
+   "analyst_target": 174.78261,
+   "website": "https://www.pginvestor.com",
+   "summary": "The Procter & Gamble Company provides branded consumer packaged goods worldwide. It operates through five segments: Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care. The company offers conditioners, shampoos, styling aids, and treatments under the Head & Shoulders, Herbal Essences, Pantene, and Rejoice brands; antiperspirants, deodorants, and personal cleansing products under the Native, Old Spice, Safeguard, and Secret brands; and facial moisturizers, cleaners, and treatments under the Olay and SK-II brands. It also provides blades, razors, shave products, a"
+  },
+  "prediction": {
+   "expected_pct": 0.83,
+   "low_pct": -2.13,
+   "high_pct": 3.88,
+   "confidence": "low"
+  },
+  "sources": [
+   {
+    "title": "Own P&G Stock For Safety? Watch Bond Yields",
+    "url": "https://www.trefis.com/stock/pg/articles/626185/own-p-g-stock-for-safety-watch-bond-yields/2026-11-18",
+    "publisher": "Trefis",
+    "date": "2026-11-18T13:41:56Z",
+    "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036."
+   },
+   {
+    "title": "Can PG's Health Care Segment Extend Its Sales Momentum Ahead?",
+    "url": "https://finance.yahoo.com/healthcare/articles/pgs-health-care-segment-extend-152500050.html",
+    "publisher": "Zacks",
+    "date": "2026-11-17T15:25:00Z",
+    "summary": "P&G's Health Care segment eyes sustained growth as improving cold and cough demand, product innovation and the Thorne acquisition create fresh opportunities."
+   }
+  ],
+  "quote_url": "https://finance.yahoo.com/quote/PG"
+ }
+}
