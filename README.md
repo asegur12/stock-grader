@@ -59,6 +59,21 @@ python -m http.server 8000 -d site
 Then open http://localhost:8000. Tip: `http://localhost:8000/#NVDA` opens a stock's details
 directly.
 
+## Run the tests
+
+With the virtual environment set up and activated as above (Git Bash on Windows:
+`source .venv/Scripts/activate`):
+
+```bash
+pip install -r requirements.txt
+python -m unittest discover -s tests -v
+```
+
+The tests never use the internet. `tests/test_fetch_data.py` replaces Yahoo Finance with
+fake companies, prices and news; `tests/test_site.py` checks the HTML, CSS and JavaScript
+files. Each test name starts with the requirement it checks (for example `test_r6_...`
+checks R6 in `problem.md`).
+
 ## Sources
 
 - Prices, company data, and news come from [Yahoo Finance](https://finance.yahoo.com) through the
